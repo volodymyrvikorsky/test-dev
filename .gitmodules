@@ -1,0 +1,3 @@
+[submodule "test-dev/infra/tfm"]
+	path = test-dev/infra/tfm
+	url = git@github.com:volodymyrvikorsky/test-tfm.git
